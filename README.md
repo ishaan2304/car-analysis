@@ -1,2 +1,2 @@
 # car-analysis
-Analysis
+Analysis of some features of different cars
