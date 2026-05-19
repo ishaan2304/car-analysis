@@ -1,6 +1,6 @@
 # Car Analysis
 
-This repository contains a comprehensive analysis of car data using Jupyter Notebooks. The analysis aims to explore various aspects of car features, performance metrics, and other relevant data to provide insightful conclusions and visualizations.
+This repository contains a comprehensive analysis of car data using Jupyter Notebooks. The analysis aims to explore various aspects of car features, performance metrics, and other relevant data to provide insightful conclusions and visualizations
 
 
 ## Repository Structure
